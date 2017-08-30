@@ -24,12 +24,10 @@ K5 = [[-1, -1, 0, 1, 1], [-1, -1, 0, 1, 1], [-1, -1, 0, 1, 1], [-1, -1, 0, 1, 1]
 > K2 extracts the vertical lines of an image <br>
 > K3 blurres the image
 
-| Graph paper     |              | 
-| --------------- |:------------:|
-| Original Images |![](graph_paper/graph_paper.JPG)        |
-| K1              |![](graph_paper/graph_paper_task3_1.JPG)| 
-| K2              |![](graph_paper/graph_paper_task3_2.JPG)| 
-| K3              |![](graph_paper/graph_paper_task3_3.JPG)|  
+| Graph paper|Original Images|  K1  | K2| K3|
+| ---------- |:-------------:|:-------------:|:-------------:|:-------------:|
+|            |![](graph_paper/graph_paper.JPG)|![](graph_paper/graph_paper_task3_1.JPG)| ![](graph_paper/graph_paper_task3_2.JPG)|![](graph_paper/graph_paper_task3_3.JPG)|  
+
 
 ##### Part A
 * Task 1
@@ -55,6 +53,7 @@ K5 = [[-1, -1, 0, 1, 1], [-1, -1, 0, 1, 1], [-1, -1, 0, 1, 1], [-1, -1, 0, 1, 1]
 
 #### Part B
 As the value of o_channel goes up, the time of covolution increases approximately two times for o_channel = 2**(i+1) comparing to 2 ** i.
+
 | Part B          | 1280x720     | 1920x1080  |
 | --------------- |:------------:| ----------:|
 | Time Plot(sec)  |![](1280x720/1280x720_partB.JPG)|![](1920x1080/1920x1080_partB.JPG)|
